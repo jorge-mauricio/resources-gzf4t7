@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorge-mauricio.github.io/resources-gzf4t7/sitemap.xml
